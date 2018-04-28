@@ -1,2 +1,2 @@
 # hello-world
-The tuto repository
+The tuto repository where I try things I learn.
